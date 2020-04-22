@@ -24,48 +24,26 @@ struct Config {
   const char* output_message[label_num] = {
 
         "RING:\n\r"
-
         "          *       \n\r"
-
         "       *     *    \n\r"
-
         "     *         *  \n\r"
-
         "    *           * \n\r"
-
         "     *         *  \n\r"
-
         "       *     *    \n\r"
-
         "          *       \n\r",
-
         "SLOPE:\n\r"
-
         "        *        \n\r"
-
         "       *         \n\r"
-
         "      *          \n\r"
-
         "     *           \n\r"
-
         "    *            \n\r"
-
         "   *             \n\r"
-
         "  *              \n\r"
-
         " * * * * * * * * \n\r",
-        "STAR:\n\r"
-        "        *        \n\r"
-        "       * *       \n\r"
-        "      *   *      \n\r"
-        "*****************\n\r"
-        " *  *       *  * \n\r"
-        "   **       **   \n\r"
-        "  *     *     *  \n\r"
-        " *   *     *   * \n\r"
-        "*               *\n\r",
+        "LEFT:\n\r"
+        "                 \n\r"
+        "<================\n\r"
+        "                 \n\r",
         "RIGHT:\n\r"
         "****             \n\r"
         "================>\n\r"
